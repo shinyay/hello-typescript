@@ -1,6 +1,7 @@
-# Name
+# Hello TypeScript
 
-Overview
+This is the getting started with TypeScript.
+Here we will create an environment for TypeScript and a simple hello world.
 
 ## Description
 
