@@ -89,29 +89,29 @@ yarn.lock
 npx tsc --init
 ```
 
-```text
+```diff
      /* Language and Environment */
 -    "target": "es2016",                                  /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */
 +    "target": "es2020",                                  /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */
 ```
 
-```text
+```diff
     /* Modules */
 -   "module": "commonjs",                                /* Specify what module code is generated. */
 +   "module": "ESNext",                                  /* Specify what module code is generated. */
 ```
 
-```text
+```diff
 -    // "moduleResolution": "node",                       /* Specify how TypeScript looks up a file from a given module specifier. */
 +    "moduleResolution": "node",                       /* Specify how TypeScript looks up a file from a given module specifier. */
 ```
 
-```text
--    // "outDir": "./",                                   /* Specify an output folder for all emitted files. */
-+    "outDir": "./",                                   /* Specify an output folder for all emitted files. */
+```diff
+-    "outDir": "./",                                   /* Specify an output folder for all emitted files. */
++    "outDir": "./dist",                                   /* Specify an output folder for all emitted files. */
 ```
 
-```text
+```diff
 -  }
 +  },
 +  "include": ["./src/**/*.ts"]
