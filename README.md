@@ -117,6 +117,18 @@ npx tsc --init
 +  "include": ["./src/**/*.ts"]
 ```
 
+```shell
+.
+├── node_modules
+│   ├── @types
+│   └── typescript
+├── package-lock.json
+├── package.json
+├── src
+│   └── index.ts
+└── tsconfig.json
+```
+
 ## Installation
 
 ## References
