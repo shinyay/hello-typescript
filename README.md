@@ -85,6 +85,10 @@ yarn.lock
 └── package.json
 ```
 
+```shell
+npx tsc --init
+```
+
 ## Installation
 
 ## References
