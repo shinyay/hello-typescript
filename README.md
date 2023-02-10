@@ -76,6 +76,15 @@ dist/**/*
 yarn.lock
 ```
 
+```
+.
+├── node_modules
+│  ├── @types
+│  └── typescript
+├── package-lock.json
+└── package.json
+```
+
 ## Installation
 
 ## References
