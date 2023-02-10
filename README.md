@@ -106,6 +106,11 @@ npx tsc --init
 +    "moduleResolution": "node",                       /* Specify how TypeScript looks up a file from a given module specifier. */
 ```
 
+```text
+-    // "outDir": "./",                                   /* Specify an output folder for all emitted files. */
++    "outDir": "./",                                   /* Specify an output folder for all emitted files. */
+```
+
 ## Installation
 
 ## References
