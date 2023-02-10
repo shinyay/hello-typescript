@@ -111,6 +111,12 @@ npx tsc --init
 +    "outDir": "./",                                   /* Specify an output folder for all emitted files. */
 ```
 
+```text
+-  }
++  },
++  "include": ["./src/**/*.ts"]
+```
+
 ## Installation
 
 ## References
