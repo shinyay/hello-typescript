@@ -21,6 +21,17 @@ Overview
 npm init --yes
 ```
 
+Add `"type": "module",`
+
+```json
+  "main": "index.js",
+  "type": "module",
+```
+
+```shell
+npm install --save-dev typescript @types/node
+```
+
 ## Installation
 
 ## References
