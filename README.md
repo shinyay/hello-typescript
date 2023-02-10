@@ -101,6 +101,11 @@ npx tsc --init
 +   "module": "ESNext",                                  /* Specify what module code is generated. */
 ```
 
+```text
+-    // "moduleResolution": "node",                       /* Specify how TypeScript looks up a file from a given module specifier. */
++    "moduleResolution": "node",                       /* Specify how TypeScript looks up a file from a given module specifier. */
+```
+
 ## Installation
 
 ## References
