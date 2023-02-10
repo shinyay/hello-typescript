@@ -89,6 +89,18 @@ yarn.lock
 npx tsc --init
 ```
 
+```text
+     /* Language and Environment */
+-    "target": "es2016",                                  /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */
++    "target": "es2020",                                  /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */
+```
+
+```text
+    /* Modules */
+-   "module": "commonjs",                                /* Specify what module code is generated. */
++   "module": "ESNext",                                  /* Specify what module code is generated. */
+```
+
 ## Installation
 
 ## References
