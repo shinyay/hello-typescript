@@ -15,6 +15,12 @@ Overview
 
 ## Usage
 
+### 0.
+
+```shell
+npm init --yes
+```
+
 ## Installation
 
 ## References
