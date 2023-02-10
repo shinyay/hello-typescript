@@ -18,6 +18,8 @@ Here we will create an environment for TypeScript and a simple hello world.
 
 ### 1. Create a TypeScript project
 
+The first step is to create a Node project.
+
 ```shell
 npm init --yes
 ```
