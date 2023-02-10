@@ -16,7 +16,7 @@ Here we will create an environment for TypeScript and a simple hello world.
 
 ## Usage
 
-### 0.
+### 1. Create a TypeScript project
 
 ```shell
 npm init --yes
