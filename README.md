@@ -41,6 +41,7 @@ Now, to commit this project to Git, create an ignore definition (.gitignore) as 
 
 <details>
 <summary>.gitignore</summary>
+
 ```text
 lib-cov
 *.seed
@@ -84,6 +85,7 @@ dist/**/*
 # ignore yarn.lock
 yarn.lock
 ```
+
 </details>
 
 ```text
