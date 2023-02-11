@@ -151,6 +151,8 @@ So far, the directory hierarchy looks like this.
 └── tsconfig.json
 ```
 
+The environment is now ready. You can implement, build and run TypeScript codes.
+
 ## Installation
 
 ## References
