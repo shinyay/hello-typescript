@@ -5,6 +5,9 @@ Here we will create an environment for TypeScript and a simple hello world.
 
 ## Description
 
+This explains the procedure for running TypeScript for the first time.
+It includes procedures for preparing an environment for building and executing TypeScript, as well as creating and running a simple application.
+
 ## Demo
 
 ## Features
