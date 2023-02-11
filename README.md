@@ -88,6 +88,8 @@ yarn.lock
 
 </details>
 
+So far, the directory hierarchy looks like this.
+
 ```text
 .
 ├── node_modules
