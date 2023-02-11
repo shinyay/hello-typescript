@@ -39,7 +39,9 @@ npm install --save-dev typescript @types/node
 
 Now, to commit this project to Git, create an ignore definition (.gitignore) as follows.
 
-```
+<details>
+<summary>.gitignore</summary>
+```text
 lib-cov
 *.seed
 *.log
@@ -82,8 +84,9 @@ dist/**/*
 # ignore yarn.lock
 yarn.lock
 ```
+</details>
 
-```
+```text
 .
 ├── node_modules
 │  ├── @types
