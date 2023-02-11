@@ -37,7 +37,7 @@ Install the packages related to TypeScript.
 npm install --save-dev typescript @types/node
 ```
 
-Now, to commit this project to Git, create an ignore definition (.gitignore) as follows.
+Now, to commit this project to Git, create an ignore definition (`.gitignore`) as follows.
 
 <details>
 <summary>.gitignore</summary>
