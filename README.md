@@ -101,6 +101,8 @@ So far, the directory hierarchy looks like this.
 
 ### 2. Initialize the project as TypeScript
 
+Execute the following command and generate `tsconfig.json`.
+
 ```shell
 npx tsc --init
 ```
