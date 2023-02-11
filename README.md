@@ -163,6 +163,30 @@ const message: string = "Hello, TypeScript!";
 console.log(message);
 ```
 
+### 4. Build Code
+
+Run the following command to build the project.
+
+```shell
+npx tsc
+```
+
+Then you can find transpiled JavaScript code under the dist directory.
+
+```
+.
+├── dist
+│  └── index.js
+├── node_modules
+│  ├── @types
+│  └── typescript
+├── package-lock.json
+├── package.json
+├── src
+│  └── index.ts
+└── tsconfig.json
+```
+
 ## Installation
 
 ## References
