@@ -187,6 +187,18 @@ Then you can find transpiled JavaScript code under the `dist` directory.
 └── tsconfig.json
 ```
 
+### 5. Run Code
+
+Execute `node` command to run, and you can see the result.
+
+```shell
+node dist/index.js
+```
+
+```shell
+Hello, TypeScript!
+```
+
 ## Installation
 
 ## References
