@@ -26,12 +26,12 @@ npm init --yes
 
 Then add 'module' as 'type'.
 
-Add `"type": "module",`
-
 ```json
   "main": "index.js",
   "type": "module",
 ```
+
+Install the packages related to TypeScript.
 
 ```shell
 npm install --save-dev typescript @types/node
