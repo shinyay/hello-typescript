@@ -171,9 +171,9 @@ Run the following command to build the project.
 npx tsc
 ```
 
-Then you can find transpiled JavaScript code under the dist directory.
+Then you can find transpiled JavaScript code under the `dist` directory.
 
-```
+```text
 .
 ├── dist
 │  └── index.js
