@@ -155,7 +155,7 @@ The environment is now ready. You can implement, build and run TypeScript codes.
 
 ### 3. Fitst Code, Hello World
 
-Create an index.ts file under the src directory. Then, write the following code.
+Create an `index.ts` file under the `src` directory. Then, write the following code.
 
 ```typescript
 const message: string = "Hello, TypeScript!";
