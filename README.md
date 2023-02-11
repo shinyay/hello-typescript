@@ -16,7 +16,7 @@ Here we will create an environment for TypeScript and a simple hello world.
 
 ## Usage
 
-### 1. Create a TypeScript project
+### 1. Create a Node project
 
 The first step is to create a Node project.
 
@@ -98,6 +98,8 @@ So far, the directory hierarchy looks like this.
 ├── package-lock.json
 └── package.json
 ```
+
+### 2. Initialize the project as TypeScript
 
 ```shell
 npx tsc --init
