@@ -107,6 +107,8 @@ Execute the following command and generate `tsconfig.json`.
 npx tsc --init
 ```
 
+Modify config as follows:
+
 ```diff
      /* Language and Environment */
 -    "target": "es2016",                                  /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */
