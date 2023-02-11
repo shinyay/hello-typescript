@@ -24,6 +24,8 @@ The first step is to create a Node project.
 npm init --yes
 ```
 
+Then add 'module' as 'type'.
+
 Add `"type": "module",`
 
 ```json
