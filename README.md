@@ -137,6 +137,8 @@ Modify config as follows:
 +  "include": ["./src/**/*.ts"]
 ```
 
+So far, the directory hierarchy looks like this.
+
 ```shell
 .
 ├── node_modules
