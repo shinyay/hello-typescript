@@ -153,6 +153,16 @@ So far, the directory hierarchy looks like this.
 
 The environment is now ready. You can implement, build and run TypeScript codes.
 
+### Fitst Code, Hello World
+
+Create an index.ts file under the src directory. Then, write the following code.
+
+```typescript
+const message: string = "Hello, TypeScript!";
+
+console.log(message);
+```
+
 ## Installation
 
 ## References
